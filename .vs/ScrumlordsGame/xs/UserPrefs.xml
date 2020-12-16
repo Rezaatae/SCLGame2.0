@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7E815F70-8C73-0580-7B0B-26F808484F97}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dice.cs">
+    <Files>
+      <File FileName="Assets/FollowThePath.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dice.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScrumlordsGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Dice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="49916774-3e5c-4ec4-904f-4be9c74dcdd9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
